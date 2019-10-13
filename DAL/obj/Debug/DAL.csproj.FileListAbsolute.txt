@@ -1,0 +1,11 @@
+C:\Users\virux\documents\visual studio 2013\Projects\ASK\DAL\bin\Debug\DAL.dll
+C:\Users\virux\documents\visual studio 2013\Projects\ASK\DAL\bin\Debug\DAL.pdb
+C:\Users\virux\documents\visual studio 2013\Projects\ASK\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\virux\documents\visual studio 2013\Projects\ASK\DAL\obj\Debug\DAL.dll
+C:\Users\virux\documents\visual studio 2013\Projects\ASK\DAL\obj\Debug\DAL.pdb
+D:\project source codes\ASK\DAL\bin\Debug\DAL.dll
+D:\project source codes\ASK\DAL\bin\Debug\DAL.pdb
+D:\project source codes\ASK\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\project source codes\ASK\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\project source codes\ASK\DAL\obj\Debug\DAL.dll
+D:\project source codes\ASK\DAL\obj\Debug\DAL.pdb
